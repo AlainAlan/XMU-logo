@@ -11,8 +11,12 @@
 
 现依照原石照片，使用[FontForge](https://github.com/fontforge/fontforge)制作了对应的ttf字体供下载。
 
-现在版本为预览版。
+现在版本为暂定稿，如无意外，或者无硬伤，不再润色。
+
+就像不存在元文本一样，不存在元字形，这里提供的仅仅是一个摹本的摹本而已。
+
+![image](https://github.com/AlainAlan/XMU-logo/blob/main/%E5%AF%B9%E6%AF%94%E5%9B%BE.png)
 
 ## 待办
 
-- [ ] 仔细观察原石，优化笔触
+- [x] 仔细观察原石，优化笔触
